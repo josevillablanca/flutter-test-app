@@ -1,6 +1,6 @@
 # test_app
 
-A new Flutter project.
+A new Flutter project with the beginner codelab and with some comments for guidance.
 
 ## Getting Started
 
